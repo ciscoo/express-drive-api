@@ -17,3 +17,5 @@ Use the following `fileId`: `0BxPliU68S4G0cTdyb09Iek16NEE`
 Direct Drive link: https://drive.google.com/file/d/0BxPliU68S4G0cTdyb09Iek16NEE/view
 
 I will remove this image once I solve my issue.
+
+Solved: https://stackoverflow.com/questions/44507204/render-raw-image-bytes-to-response-body/44519836#44519836
